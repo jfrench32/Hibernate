@@ -1,0 +1,8 @@
+<div class="crayon-line" id="crayon-575c2fd7819be894077258-1">
+<hibernate-mapping>
+<class name="POJO class name" table="table name in database">
+<id name="variable name" column="column name in database" type="java/hibernate type" />
+<property name="variable1 name" column="column name in database" type="java/hibernate type" />
+<property name="variable2 name" column="column name in database" type="java/hibernate type" />
+</class>
+</hibernate-mapping>
